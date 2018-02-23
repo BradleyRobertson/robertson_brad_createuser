@@ -1,0 +1,72 @@
+
+/* create user portion */
+
+
+
+
+/* create user portion */
+
+body{
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  margin-left: 43.5%;
+  margin-top: 6%;
+}
+
+form {
+  margin-left: 38%;
+  margin-top: 2%;
+}
+
+#error{
+  text-align: center;
+  color: red;
+}
+
+label {
+  font-size: 18px;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+}
+
+#inputfield {
+  margin-left: 25%;
+  margin-bottom: 0%
+}
+
+input {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+}
+
+.submit {
+  background-color: black;
+  color: white;
+  height: 30px;
+  font-size: inherit;
+  text-align: center;
+  margin-left: 12%;
+  margin-top: 5%;
+}
+
+
+/*login portion */
+
+
+
+
+/*login portion */
+
+
+
+
+/*edit user portion */
+
+
+
+
+/*edit user portion */
